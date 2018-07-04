@@ -18,5 +18,5 @@
 ## 软件安装
 
 ### Homebrew
-	打开网页https://brew.sh/index_zh-cn
-	
+
+![](https://github.com/AlgernonMXF/-Mac-os-X-PHP-/raw/master/homebrew.png)
