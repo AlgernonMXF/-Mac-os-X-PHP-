@@ -23,3 +23,15 @@
 按照下图中所示方法，在终端中执行命令行
 
 ![](https://github.com/AlgernonMXF/-Mac-os-X-PHP-/raw/master/homebrew.png)
+
+
+### phinx
+	下载composer
+	curl -s https://getcomposer.org/installer | php
+
+	下载phinx
+	php composer.phar require robmorgan/phinx
+	php composer.phar install --no-dev
+
+	运行phinx
+	vendor/bin/phinx
