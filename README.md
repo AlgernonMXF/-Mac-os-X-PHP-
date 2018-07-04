@@ -19,6 +19,7 @@
 
 ### Homebrew
 进入Homebrew官网https://brew.sh/index_zh-cn
+
 按照下图中所示方法，在终端中执行命令行
 
 ![](https://github.com/AlgernonMXF/-Mac-os-X-PHP-/raw/master/homebrew.png)
